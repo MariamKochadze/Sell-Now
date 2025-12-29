@@ -29,7 +29,7 @@ export default function RootLayout({
       >
           <nav className="nav">
           <a className="href" href="/home">Home</a>
-          <a className="href" href="/authentication">LogIn</a>
+          <a className="href" href="/authentication/authenticating">LogIn</a>
         </nav>
         {children}
       </body>

@@ -1,13 +1,6 @@
-import styles from "./loginPage.module.css"
 
 export default function LoginPage(){
  return(
-   <form className={styles.form}>
-      <label className={styles.label}>Email</label>
-      <input className={styles.input} type="email" placeholder="Email"/><br/>
-      <label className={styles.label}>Password</label>
-      <input className={styles.input} type="password"/><br/>
-      <button className={styles.button}>Submit</button>
-   </form>
+  <h1>Authentication</h1>
  )
 }
