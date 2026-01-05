@@ -1,12 +1,19 @@
-# Sell-Now
+# Sell Now
 
-This is a Next.js project bootstrapped with `create-next-app`.  
+A simple web app selling hand made jewelleries on Vercel.
 
+## 🚀 Live Demo
+https://sell-now-beta.vercel.app/
 
-## Getting Started
+## 📦 Tech Stack
+- JavaScript
+- React / Next.js
+- Vercel
 
-First, run the development server:
-
-```bash
+## 🛠️  Run
+npm install  
 npm run dev
 
+## build
+
+npm run build
