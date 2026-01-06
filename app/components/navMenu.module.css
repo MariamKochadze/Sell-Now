@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    gap: 20px;
+}
+
+.container button{
+    border-radius: 1px solid rgb(196, 212, 225);
+    cursor: pointer;
+    color: blue;
+    background-color: #e7e7e7;
+    border: none;
+
+}
+
+.container button:hover{
+    color: black;
+}
+
+.navLink{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.navLink a{
+    text-decoration: none;
+    color: rgb(92, 92, 199);
+}
+
+.navLink a:hover{
+    color: black;
+}
